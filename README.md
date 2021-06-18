@@ -15,7 +15,7 @@
 
 <h2>Connect with Me:</h2>
 <p >
-<a href="https://linkedin.com/in/pasindu-osadha" target="blank"><img align="center" src="https://raw.githubusercontent.com/pasindu-osadha/pasindu-osadha/d3b0afaf6ec7ca90088c3a733d8966e5c0f89f71/Icons/Social/linked-in.svg" alt="Linkedin" height="120" width="120" /></a> &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://stackoverflow.com/users/11976868" target="blank"><img align="center" src="https://raw.githubusercontent.com/pasindu-osadha/pasindu-osadha/d3b0afaf6ec7ca90088c3a733d8966e5c0f89f71/Icons/Social/stack-overflow.svg" alt="stackoverflow" height="120" width="120" /></a>
+<a href="https://linkedin.com/in/pasindu-osadha" target="blank"><img align="center" src="https://raw.githubusercontent.com/pasindu-osadha/pasindu-osadha/d3b0afaf6ec7ca90088c3a733d8966e5c0f89f71/Icons/Social/linked-in.svg" alt="Linkedin" height="80" width="80" /></a> &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://stackoverflow.com/users/11976868" target="blank"><img align="center" src="https://raw.githubusercontent.com/pasindu-osadha/pasindu-osadha/d3b0afaf6ec7ca90088c3a733d8966e5c0f89f71/Icons/Social/stack-overflow.svg" alt="stackoverflow" height="80" width="80" /></a>
 </p>
 
 <h2>Github Status:</h2> 
