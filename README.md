@@ -2,7 +2,7 @@
 ![Header](https://github.com/pasindu-osadha/pasindu-osadha/blob/main/animation.gif?raw=true)
 
 <p> 
-<img src="https://komarev.com/ghpvc/?username=pasindu-osadha&label=Profile%20views&color=0e75b6&style=flat" alt="pasindu-osadha" />
+<img src="https://komarev.com/ghpvc/?username=pasindu-osadha&label=Profile%20views&color=0e75b6&style=flat" alt="pasindu-osadha" /> 
 </p>
 
 <h2>About Me:</h2>
