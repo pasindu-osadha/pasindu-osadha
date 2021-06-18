@@ -21,9 +21,9 @@
 <h2>Github Status:</h2> 
 <p>
 <img src="https://github-profile-trophy.vercel.app/?username=pasindu-osadha&theme=darkhub" alt="pasindu-osadha" /><br/>
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=pasindu-osadha&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" /><br/>
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindu-osadha&hide=html&hide_title=true&hide_border=true&layout=compact&theme=dark" /><br/>
-<img height="160px"  src="https://github-readme-streak-stats.herokuapp.com?user=pasindu-osadha&theme=dark&hide_border=true" alt="pasindu-osadha" />
+<img src="https://github-readme-stats.vercel.app/api?username=pasindu-osadha&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" /><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindu-osadha&hide=html&hide_title=true&layout=compact&theme=dark" /><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=pasindu-osadha&theme=dark" alt="pasindu-osadha" />
 </p>
 
 <h2>Languages and Tools:</h2>
