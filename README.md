@@ -8,9 +8,9 @@
 <h2>About Me:</h2>
 
 - 🎓 I'm currently studying for BSc (Hons) in Information Technology & Management.
-- 🔭 I’m currently working on lifestyle application for NewYork residents: __WATERrhythms__
-- 🌱 I’m currently learning **Xamarin, Flutter, ASP.Net core, React JS**
-- 💬 Ask me about **Xamarin ,ASP.Net core**
+- 🔭 I’m currently working on research and development Task on Handsontable project 
+- 🌱 I’m currently learning ** ASP.Net core, React JS**
+- 💬 Ask me about **ASP.Net core, React JS**
 - 📫 How to reach me **pasiduosanda@gmail.com**
 
 <h2>Connect with Me:</h2>
