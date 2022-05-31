@@ -1,5 +1,5 @@
 
-![Header](https://github.com/pasindu-osadha/pasindu-osadha/blob/main/animation.gif?raw=true)
+![Header] <h1><center> Pasindu Osadha</center></h1> 
 
 <p> 
 <img src="https://komarev.com/ghpvc/?username=pasindu-osadha&label=Profile%20views&color=0e75b6&style=flat" alt="pasindu-osadha" /> 
