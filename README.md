@@ -1,5 +1,7 @@
 
-![Header] <h1><center> Pasindu Osadha</center></h1> 
+<head>
+<h1> Pasindu Osadha</h1>
+</head>
 
 <p> 
 <img src="https://komarev.com/ghpvc/?username=pasindu-osadha&label=Profile%20views&color=0e75b6&style=flat" alt="pasindu-osadha" /> 
